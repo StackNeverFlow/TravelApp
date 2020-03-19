@@ -47,6 +47,3 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2020 [StackNeverFlow](https://github.com/StackNeverFlow).<br />
 This project is [GPL--2.0](https://github.com/StackNeverFlow/TravelApp/LICENSE) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
